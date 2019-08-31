@@ -1,7 +1,7 @@
 {
-    "name": "jamstack-now-ui-kit",
+    "name": "site-gratuit-ui-kit",
     "version": "0.0.1",
-    "description": "Now UI Kit - JAMStack implementation",
+    "description": "Site Gratuit - SIte prezentare UI Kit. Un produs WebsiteMarket",
     "main": "Gruntfile.js",
     "devDependencies": {
         "autoprefixer": "^6.3.6",
@@ -22,21 +22,21 @@
         "node": ">=0.10.1"
     },
     "scripts": {
-        "deploy": "gulp build && node deploy",
-        "start": "gulp",
-        "clean": "gulp clean",
-        "build": "gulp build"
+        "deploy" : "gulp clean && gulp build && node deploy",
+        "start"  : "gulp clean && gulp",
+        "clean"  : "gulp clean",
+        "build"  : "gulp build"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/app-generator/jamstack-now-ui-kit"
+        "url": "https://github.com/creare-site/site-gratuit-ui-kit"
     },
     "bugs": {
-        "url": "https://github.com/app-generator/jamstack-now-ui-kit/issues",
-        "email": "support@appseed.us"
+        "url": "https://github.com/creare-site/site-gratuit-ui-kit/issues",
+        "email": "hello@websitemarket.ro"
     },
-    "author": "AppSeed App Generator <support@appseed.us> (https://appseed.us)",
-    "license": "MIT",
+    "author": "WebsiteMarket <hello@websitemarket.ro> (https://websitemarket.ro)",
+    "license": "Commercial",
     "private": false,
     "dependencies": {
         "bulma": "^0.7.4",
