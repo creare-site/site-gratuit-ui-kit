@@ -10,7 +10,7 @@ Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
 ## Informatii produs
 
-- Site de prezentare sala fitness - Ui Kit
+- Site de prezentare gratuit cu design Ui Kit
 - Live [DEMO](https://site-gratuit-ui-kit.websitemarket.ro)
  
 <br />
