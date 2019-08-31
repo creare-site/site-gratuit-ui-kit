@@ -1,17 +1,17 @@
-# [Site Fitness Ethereal](https://site-fitness-ethereal.websitemarket.ro/)
+# [Site Gratuit Ui Kit](https://site-gratuit-ui-kit.websitemarket.ro/)
 
 Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
 <br />
 
-![Site Fitness Ethereal](https://raw.githubusercontent.com/creare-site/static/master/produse/site-fitness-ethereal-intro.gif)
+![Site Gratuit Ui Kit](https://raw.githubusercontent.com/creare-site/static/master/produse/site-gratuit-ui-kit-intro.gif)
 
 <br />
 
 ## Informatii produs
 
-- Site de prezentare sala fitness - Ethereal
-- Live [DEMO](https://site-fitness-ethereal.websitemarket.ro)
+- Site de prezentare sala fitness - Ui Kit
+- Live [DEMO](https://site-gratuit-ui-kit.websitemarket.ro)
  
 <br />
 
@@ -27,8 +27,8 @@ Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 Acesta website este o aplicatie JAMstack. Pentru a genera website-ul local urmati instructiunile:
 
 ```
-$ git clone https://github.com/creare-site/site-fitness-ethereal.git
-$ cd site-fitness-ethereal
+$ git clone https://github.com/creare-site/site-gratuit-ui-kit.git
+$ cd site-gratuit-ui-kit
 $ yarn # instalare module
 $ yarn start # mod editare live
 $ yarn build # generare site productie
@@ -43,4 +43,4 @@ Prin Email **hello [@ ] websitemarket.ro** sau pe LIVE chat-ul [Discord](https:/
 <br />
 
 ---
-[Site Fotografie Ethereal](https://site-fitness-ethereal.websitemarket.ro/) un produs **WebsiteMarket**
+[Site Fotografie Ui Kit](https://site-gratuit-ui-kit.websitemarket.ro/) un produs **WebsiteMarket**
