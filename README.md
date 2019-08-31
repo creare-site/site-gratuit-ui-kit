@@ -15,13 +15,6 @@ Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
  
 <br />
 
-## Licenta
-
-- Acest produs este protejat de drepturi de autor
-- Pentru cumpararea licentei de utilizare accesati [WebsiteMarket.ro](https://websitemarket.ro) 
-
-<br />
-
 ## Utilizare (pentru dezvoltatori)
 
 Acesta website este o aplicatie JAMstack. Pentru a genera website-ul local urmati instructiunile:
