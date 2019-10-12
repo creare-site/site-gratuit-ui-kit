@@ -1,4 +1,4 @@
-# [Site Gratuit Ui Kit](https://site-gratuit-ui-kit.websitemarket.ro/)
+# [Site Gratuit Ui Kit](https://websitemarket.ro/site-gratuit/ui-kit/)
 
 Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
@@ -10,8 +10,9 @@ Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
 ## Informatii produs
 
-- Site de prezentare gratuit cu design Ui Kit
-- Live [DEMO](https://site-gratuit-ui-kit.websitemarket.ro)
+- **Site de prezentare gratuit** cu design Ui Kit
+- [Site Gratuit DEMO](https://site-gratuit-ui-kit.websitemarket.ro)
+- [Site Gratuit UI Kit](https://websitemarket.ro/site-gratuit/ui-kit/) - pagina produs
  
 <br />
 
@@ -36,4 +37,4 @@ Prin Email **hello [@ ] websitemarket.ro** sau pe LIVE chat-ul [Discord](https:/
 <br />
 
 ---
-[Site Fotografie Ui Kit](https://site-gratuit-ui-kit.websitemarket.ro/) un produs **WebsiteMarket**
+[Site Gratuit Ui Kit](https://websitemarket.ro/site-gratuit/ui-kit/) un produs **WebsiteMarket**
