@@ -13,6 +13,7 @@ Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 - **Site de prezentare gratuit** cu design Ui Kit
 - [Site Gratuit DEMO](https://site-gratuit-ui-kit.websitemarket.ro)
 - [Site Gratuit UI Kit](https://websitemarket.ro/site-gratuit/ui-kit/) - pagina produs
+- [Site Gratuit — Site Prezentare cu design Now UI](https://medium.com/@websitemarketro/site-gratuit-site-prezentare-cu-design-now-ui-websitemarket-8db36766959f) - articol de blog
  
 <br />
 
